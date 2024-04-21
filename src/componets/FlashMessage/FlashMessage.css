@@ -1,0 +1,7 @@
+.string{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

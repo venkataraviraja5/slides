@@ -1,0 +1,28 @@
+.picdiv{
+    height: 250px;
+    width: 220px;
+    background-color: rgb(181, 132, 226);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+ ;
+}
+
+.pics{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+
+.data-items{
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+}
